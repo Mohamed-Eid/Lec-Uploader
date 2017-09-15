@@ -1,0 +1,26 @@
+body{
+    
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+nav .nav-wrapper{
+    background-color: #0e3757;
+}
+nav .brand-logo{
+     padding-left: 30px;
+}
+.card-stacked {
+	padding-top : 20px;
+}
+h1{
+	color : #eb5a49;
+}
+
+.input-field {
+padding-top : 20px;
+}
